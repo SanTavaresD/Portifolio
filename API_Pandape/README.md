@@ -13,6 +13,7 @@ Automatizar o relatório em tempo real das vagas que são apertas através da pl
 ## 📊 Descrição
 - Este projeto busca a automação de relatórios recorrentes que antes eram produzidos manualmente.  
 São básicamente cinco scripts.
+
 O primeiro **Request1**:
 1. Pega todas as RPs de 2024 até hoje
 2. Inseri essas RPs em uma planilha no Google Sheets
