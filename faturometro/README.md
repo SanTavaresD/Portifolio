@@ -25,3 +25,5 @@ Análise comparativa entre o direito de faturar ou seja, aquilo que está em con
 - Visibilidade aumentada para o time de Stackholders, Faturamento e Gestão de Contratos
 - Correção de processo
 - Insights segmentados por mes de competencia
+
+![image](https://github.com/user-attachments/assets/348b9ba0-d608-44bf-83f4-76725b7a13c0)
