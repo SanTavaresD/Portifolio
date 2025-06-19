@@ -23,6 +23,10 @@ Todos os projetos foram estruturados de forma a respeitar a LGPD e conter **dado
 |--------|-----------|-------------|
 | [FATURÔMETRO](./faturometro/) | Análise comparativa entre o direito de faturar ou seja, aquilo que está em contrato com o que foi faturado | SQL, Power BI, Python |
 | [API FindMe](./api_findme/) | Consumo da API do fornecedor para buscar dados referente a eficiencia da operação | Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets, SQL|
+| [API Pandape](./API_Pandape/) | Consumo da API do pandapé para buscar dados referente a vagas | Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets|
+
+
+Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets
 ---
 
 ## 📬 Contato
