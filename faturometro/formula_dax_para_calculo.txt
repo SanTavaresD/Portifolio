@@ -1,0 +1,15 @@
+
+.Janeiro_RM_24 = CALCULATE(sum(RM[Valor_Bruto]), FILTER(RM, RM[competencia].[Ano] = 2024), FILTER(RM, RM[competencia].[Mês] = "janeiro"))
+
+
+.Janeiro_porc_24 = calculate([.Janeiro_RM_24]  / sum(TechTeam[valor_total_tt]), filter(TechTeam, TechTeam[data_dados].[Mês] = "janeiro"), filter(TechTeam, TechTeam[data_dados].[Ano] = 2024))
+
+
+.Janeiro_SE_24 = calculate(sum(RM[Valor_Bruto]), filter(rm, RM[competencia].[Ano] = 2024), filter(rm, RM[competencia].[Mês] = "janeiro"), filter(rm, RM[Receita_Extra.1] = "Sim"))
+
+
+.Janeiro_TT_24 = calculate(sum(TechTeam[valor_total_tt]), filter(TechTeam, TechTeam[data_dados].[Ano] = 2024), filter(TechTeam, TechTeam[data_dados].[Mês] = "janeiro"), filter(TechTeam, TechTeam[servico_extra] = "Não"))
+
+
+
+
