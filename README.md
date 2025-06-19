@@ -25,14 +25,13 @@ Todos os projetos foram estruturados de forma a respeitar a LGPD e conter **dado
 | [API FindMe](./api_findme/) | Consumo da API do fornecedor para buscar dados referente a eficiencia da operação | Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets, SQL|
 | [API Pandape](./API_Pandape/) | Consumo da API do pandapé para buscar dados referente a vagas | Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets|
 
-
-Python, Pandas, API do fornecedor, API Google Sheets, Google Sheets
 ---
 
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-tavares-s/)
 - Email: santana.tavares@gmail.com
+- Telefone: (11) 91252-6140
 
 ---
 
