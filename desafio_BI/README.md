@@ -25,12 +25,14 @@ Treinar habilidades de storytelling e análise de dados para três áreas distin
 - `financeiro.png: Imagem do Dash de financeiro
 - `manual_explicativo.pdf: Manual explicativo de cada card
 
-
+---
 ### Suporte
 ![image](https://github.com/SanTavaresD/Portifolio/blob/main/desafio_BI/suporte.png?raw=true)
 
+---
 ### Vendas
 ![image](https://github.com/SanTavaresD/Portifolio/blob/main/desafio_BI/vendas.png?raw=true)
 
+---
 ### Financeiro
 ![image](https://github.com/SanTavaresD/Portifolio/blob/main/desafio_BI/financeiro.png?raw=true)
