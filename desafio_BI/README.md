@@ -26,4 +26,4 @@ Treinar habilidades de storytelling e análise de dados para três áreas distin
 - `manual_explicativo.pdf: Manual explicativo de cada card
 
 
-![image](https://github.com/user-attachments/assets/348b9ba0-d608-44bf-83f4-76725b7a13c0)
+![image](https://github.com/SanTavaresD/Portifolio/blob/main/desafio_BI/financeiro.png?raw=true)
