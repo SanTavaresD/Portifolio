@@ -9,13 +9,13 @@ Treinar habilidades de storytelling e análise de dados para três áreas distin
 - Looker Studio
 
 ## 📊 Descrição
-#  Suporte | Análise de Gestão de Chamados
+###  Suporte | Análise de Gestão de Chamados
 - O objetivo desse dashboard é acompanhar os chamados que são enviados para a equipe de suporte e através dele fazer toda a gestão do time, desde a criação do chamado até sua resolução, entendendo pendências e capacidade operacional.
 
-# Vendas | Análise de Vendas
+### Vendas | Análise de Vendas
 - O objetivo desse dashboard é acompanhar o time de vendas e entender seus principais indicadores como receita, lucro, e outros e assim tomar as melhores decisões estratégicas para o aumento da capacidade de vendas.
 
-# Financeiro | Análise de Fluxo de Caixa
+### Financeiro | Análise de Fluxo de Caixa
 - O objetivo desse dashboard é acompanhar o fluxo de caixa para entender como está a saúde financeira da empresa, as flutuações mês a mês, as maiores receitas e despesas e quais são os departamentos que gera mais receitas e mais despesas.
 
 
